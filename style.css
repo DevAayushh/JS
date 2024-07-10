@@ -1,0 +1,49 @@
+.container {
+    margin-top: 200px;
+    margin-right: 355px;
+  }
+  #form{
+    text-align: center;
+  }
+  #height,
+  #weight {
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+  }
+  
+  #weight-guide {
+    margin-left: 4px;
+    margin-top: 20px;
+  }
+  
+  #results {
+    font-size: 20px;
+    margin-left: 20px;
+    color: rgb(4, 18, 4);
+  }
+body{
+  background-image: url('pic.jpg');
+  background-size: contain;
+  background-size: 1250px,150px;
+}
+  button {
+    width: 100px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    background-color: #fff;
+    padding: 1px 10px;
+    border-radius: 8px;
+    color: #212121;
+    text-decoration: none;
+    border: 2px solid #212121;
+  
+    font-size: 15px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 40px;
+  }
+  
